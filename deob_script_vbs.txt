@@ -1,0 +1,38 @@
+funcTiOn Y9Ocx6cw(D8cknm,Ky)
+	diM EimhG,GeYbQ,OPKs
+	fOR EimhG=1 tO (JCf(D8cknm)/2)
+		GeYbQ=(SRToxoH((148048/3896)) & SRToxoH((529560/7355))&(VFvB(D8cknm,(EimhG+EimhG)-1,2)))
+		OPKs=(UG0z4b(VFvB(Ky,((XQU2sqi9(EimhG,JCf(Ky)))+1),1)))
+		Y9Ocx6cw=Y9Ocx6cw+SRToxoH(JfHfmozH(GeYbQ,OPKs))
+	nEXt
+eND FUncTiOn
+
+fUNcTIon JCf(TdFe)
+	JCf = Len(TdFe)
+EnD fUncTion
+
+FUNction SRToxoH(G2OS)
+	SRToxoH=cHR(G2OS)
+ENd funCtION
+
+FUNCTIOn VFvB(Jkvf0,NRZ,UNEjzC)
+	VFvB=Mid(Jkvf0,NRZ,UNEjzC)
+eNd FUNCtiON
+
+FUnCTiOn UG0z4b(QiYaL)
+	UG0z4b=aSC(QiYaL)
+EnD fUNCtion
+
+FunCtiON XQU2sqi9(VTs, YtcXf2Ga)
+	XQU2sqi9 = VTs MoD YtcXf2Ga
+eND fUNcTiOn
+
+fUNcTIon JCf(TdFe)
+	JCf = Len(TdFe)
+EnD fUncTion
+
+FunCTiON JfHfmozH(FboQ,YkAUE)
+	JfHfmozH=(FboQ aND nOt YkAUE)oR(NoT FboQ ANd YkAUE)
+eNd Function
+
+Wscript.Echo(Y9Ocx6cw(Wscript.Arguments(0),Wscript.Arguments(1)))

